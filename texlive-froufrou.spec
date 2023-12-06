@@ -1,6 +1,6 @@
 Name:		texlive-froufrou
-Version:	59103
-Release:	2
+Version:	67201
+Release:	1
 Summary:	Fancy section separators
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/froufrou
